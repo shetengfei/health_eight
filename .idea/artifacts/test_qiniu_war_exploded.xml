@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="test_qiniu:war exploded">
+    <output-path>$PROJECT_DIR$/test_qiniu/target/test_qiniu</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>test_qiniu</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="test_qiniu" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.qiniu:qiniu-java-sdk:7.2.11" />
+          <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:3.9.1" />
+          <element id="library" level="project" name="Maven: com.squareup.okio:okio:1.13.0" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.2" />
+          <element id="library" level="project" name="Maven: com.qiniu:happy-dns-java:0.1.6" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/test_qiniu/target/test_qiniu/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="test_qiniu/web/Web" />
+    </root>
+  </artifact>
+</component>

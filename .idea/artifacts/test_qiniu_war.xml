@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="test_qiniu:war">
+    <output-path>$PROJECT_DIR$/test_qiniu/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>test_qiniu</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="test_qiniu.war">
+      <element id="artifact" artifact-name="test_qiniu:war exploded" />
+    </root>
+  </artifact>
+</component>

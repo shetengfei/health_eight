@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/health_common_345/health_common_345.iml" filepath="$PROJECT_DIR$/health_common_345/health_common_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_dao_345/health_dao_345.iml" filepath="$PROJECT_DIR$/health_dao_345/health_dao_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_interface_345/health_interface_345.iml" filepath="$PROJECT_DIR$/health_interface_345/health_interface_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_jobs_345/health_jobs_345.iml" filepath="$PROJECT_DIR$/health_jobs_345/health_jobs_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_mobile_web_345/health_mobile_web_345.iml" filepath="$PROJECT_DIR$/health_mobile_web_345/health_mobile_web_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_parent_345.iml" filepath="$PROJECT_DIR$/health_parent_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_pojo_345/health_pojo_345.iml" filepath="$PROJECT_DIR$/health_pojo_345/health_pojo_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_service_345/health_service_345.iml" filepath="$PROJECT_DIR$/health_service_345/health_service_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_web_345/health_web_345.iml" filepath="$PROJECT_DIR$/health_web_345/health_web_345.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_qiniu/test_qiniu.iml" filepath="$PROJECT_DIR$/test_qiniu/test_qiniu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_springsecurity_345/test_springsecurity_345.iml" filepath="$PROJECT_DIR$/test_springsecurity_345/test_springsecurity_345.iml" />
+    </modules>
+  </component>
+</project>
